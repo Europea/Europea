@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jayden</h1>
-<h3 align="center">A passionate frontend developer from The Netherlands</h3>
+<h3 align="center">A passionate Junior webdeveloper from The Netherlands</h3>
 
 - 🔭 I’m currently working on **Zone4 a Fivem Roleplay server**
 
