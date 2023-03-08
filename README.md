@@ -1,14 +1,12 @@
 <h1 align="center">Hi 👋, I'm Jayden</h1>
 <h3 align="center">A passionate frontend developer from The Netherlands</h3>
 
-- 🔭 I’m currently working on **Zone4 a Fivem Roleplays] server**
+- 🔭 I’m currently working on **Zone4 a Fivem Roleplay server**
 
 - 🌱 I’m currently learning **Java, CodeIgniter4**
 
 - 📫 How to reach me **Discord: Jayden909#8295**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
