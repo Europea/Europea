@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Java, CodeIgniter4**
 
-- 📫 How to reach me **Discord: Jayden909#8295**
+- 📫 How to reach me **Discord: Jayden909**
 
 </p>
 
