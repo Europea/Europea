@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jayden</h1>
 <h3 align="center">A passionate Junior webdeveloper from The Netherlands</h3>
 
-- 🔭 I’m currently working on **IJsselveen**
+- 🔭 I’m currently working on **Nothing**
 
-- 🌱 I’m currently learning **Java, CodeIgniter4**
+- 🌱 I’m currently learning **Java, Laravel**
 
 - 📫 How to reach me **Discord: Jayden909**
 
