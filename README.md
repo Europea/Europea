@@ -1,10 +1,6 @@
 # Welkom op mijn GitHub-profiel! 👋
 
-Mijn naam is Jayden en ik ben een Software Developer. Dit is mijn GitHub-profiel waar je mijn projecten en bijdragen kunt vinden.
-
-## Over Mij
-- 💻 Ik werk graag met Svelte en JavaScript om mooie en snelle websites te bouwen.
-- 🌱 Ik leer elke dag bij en vind het leuk om nieuwe dingen te ontdekken.
+Mijn naam is Jayden en ik ben een Game- en Software Ontwikkelaar. Dit is mijn GitHub-profiel waar je mijn projecten en bijdragen kunt vinden.
 
 ## Statistieken
 
