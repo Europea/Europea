@@ -2,16 +2,15 @@
 
 Mijn naam is Jayden en ik ben een Game- en Software Ontwikkelaar. Dit is mijn GitHub-profiel waar je mijn projecten en bijdragen kunt vinden.
 
-## Statistieken
 
-![Jouw GitHub-statistieken](https://github-readme-stats.vercel.app/api?username=Europea&show_icons=true&theme=radical)
+# 💻 Tech Stack:
+![SvelteKit](https://img.shields.io/badge/sveltekit-%23ff3e00.svg?style=for-the-badge&logo=svelte&logoColor=white) ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
 
-![Top programmeertalen](https://github-readme-stats.vercel.app/api/top-langs/?username=Europea&layout=compact&theme=radical)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Europea&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Europea&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Europea&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## Talen en Tools
-
-![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=microsoft&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+---
+[![](https://visitcount.itsvg.in/api?id=Europea&icon=0&color=0)](https://visitcount.itsvg.in)
 
