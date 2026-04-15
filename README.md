@@ -1,8 +1,3 @@
-# Welkom op mijn GitHub-profiel! 👋
-
-Mijn naam is Jayden en ik ben een Game- en Software Ontwikkelaar. Dit is mijn GitHub-profiel waar je mijn projecten en bijdragen kunt vinden.
-
-
 # 💻 Tech Stack:
 ![SvelteKit](https://img.shields.io/badge/sveltekit-%23ff3e00.svg?style=for-the-badge&logo=svelte&logoColor=white) ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
 
